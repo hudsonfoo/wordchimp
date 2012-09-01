@@ -1,0 +1,135 @@
+#wordchimp_logo {
+	display:block;
+	clear:both;
+}
+
+#wordchimp_credits {
+	display:block;
+	clear:both;
+	margin:5px 0px;
+	font-weight:bold;
+}
+
+#posts_listing ul li {
+	display:block;
+	margin-bottom:2px;
+	padding:5px;
+	overflow:hidden;
+	background-color:#f7f7f7;
+	font-weight:bold;
+	clear:both;
+	cursor:pointer;
+}
+
+#posts_listing ul li:hover {
+	background-color:#aaa;
+	color:#fff;
+}
+
+#posts_used ul li {
+	padding:5px;
+	font-weight:bold;
+	cursor:pointer;
+}
+
+#posts_used ul li:hover {
+	background-color:#fcffce;
+}
+
+.wordchimp_campaigns_analytics_table {
+	width:100%;
+}
+.wordchimp_campaigns_analytics_table campaign {
+	border-top:1px solid #000;
+	border-bottom:1px solid #000;
+}
+.wordchimp_campaigns_analytics_table .wordchimp_campaign_data_title {
+	font-size:12px;
+	color:#242424;
+}
+.wordchimp_campaigns_analytics_table .wordchimp_campaign_data_title {
+	font-size:10px;
+	font-weight:bold;
+}
+.wordchimp_campaigns_analytics_table td.wordchimp_campaign_title {
+	font-weight:bold;
+	font-size:16px;
+	color:#0a0a0a;
+}
+.wordchimp_campaigns_analytics_table td {
+	padding:3px;
+	background-color: #f4f4f4;
+}
+.wordchimp_campaigns_analytics_table tr.wordchimp_campaign_separate td {
+	height:15px;
+	background-color:#fff;
+}
+
+.wordchimp_form_table th {
+	text-align:left;
+}
+
+.wordchimp {
+	
+}
+
+.wordchimp input[type=text] {
+	width:500px;
+}
+
+.wordchimp textarea {
+	width:100%;
+	height:200px;
+}
+
+.wordchimp_notice {
+	font-size:12px;
+	color:#008adb;
+}
+
+.wordchimp_error {
+	display:block;
+	padding:5px;
+	font-weight:bold;
+	background-color:#ffe9e9;
+	border: 1px solid #ff0000;
+	color:red;
+	text-align:center;
+}
+
+.wordchimp_success {
+	display:block;
+	padding:5px;
+	font-weight:bold;
+	background-color:#dfffe4;
+	border: 1px solid #157a2c;
+	color:#157a2c;
+	text-align:center;
+}
+
+.wordchimp .template_select_box {
+	float:left;
+	margin:10px 20px 10px 0px;
+	padding:5px;
+	border:1px solid #ccc;
+	height:200px;
+	width:200px;
+	overflow:hidden;
+	cursor:pointer;
+}
+
+.wordchimp .template_select_box:hover {
+	border:1px solid #000;
+}
+
+.wordchimp .template_select_box img {
+	display:block;
+	max-width:180px;
+	margin:0px auto;
+}
+
+.wordchimp .template_select_box span {
+	display:block;
+	clear:both;
+	text-align:center;
+}
